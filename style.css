@@ -17,7 +17,7 @@ canvas {
 }
 
 p {
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: Ubuntu, Arial, sans-serif;
 	font-size: 19px;
 	color: #777;
 	display: block;
@@ -34,7 +34,7 @@ p {
 }
 
 label {
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: Ubuntu, Arial, sans-serif;
 	font-size: 18px;
 	color: #555;
 	width: 400px;
